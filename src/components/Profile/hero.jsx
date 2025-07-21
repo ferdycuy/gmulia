@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../../assets/images/bg-profile-perusahaan.jpg"; // Gambar background (bisa diganti dengan foto tambak garam, pabrik, dll)
+import HeroImage from "../../assets/images/bg-profile-perusahaan.JPG"; 
 import { Link } from "react-router-dom";
 
 const ProfileHero = () => {
