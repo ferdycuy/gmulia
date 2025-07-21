@@ -3,7 +3,7 @@ import Duakelinci from "../../assets/images/client/logo-duakelinci.png";
 import Corp from "../../assets/images/client/logo-corp.png";
 import Etira from "../../assets/images/client/logo-etira.png";
 import Kahatex from "../../assets/images/client/logo-kahatex.png";
-import KAM from "../../assets/images/client/logo-kam.png";
+import KAM from "../../assets/images/client/logo-KAM.png";
 import Saltindo from "../../assets/images/client/logo-saltindo.png";
 
 const logos = [
